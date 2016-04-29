@@ -1,7 +1,7 @@
 name: Studio-Pierce
 favicon: null
-layout_spectrum: 0.50961
-typography_spectrum: 1
+layout_spectrum: 1
+typography_spectrum: 0.46518
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#787878'
     - '#ecebe6'
     - '#a5a49f'
-  brandStrength: 1
+  brandStrength: 0
   lightness: 1
-  saturation: 0
-  rhythmicContrast: 1
+  saturation: 1
+  rhythmicContrast: 0
 purpose: []
