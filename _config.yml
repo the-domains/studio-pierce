@@ -1,7 +1,7 @@
 name: Studio-Pierce
 favicon: null
-layout_spectrum: 0.7050490682013333
-typography_spectrum: 0.23585040378384292
+layout_spectrum: 1
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
