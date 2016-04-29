@@ -1,0 +1,28 @@
+name: Studio-Pierce
+favicon: null
+layout_spectrum: 0.7050490682013333
+typography_spectrum: 0.23585040378384292
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.38636639481410384
+  lightness: 0.0011613569222390652
+  saturation: 0.01511397399008274
+  rhythmicContrast: 0.36512831691652536
+purpose: []
